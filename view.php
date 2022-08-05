@@ -4,8 +4,8 @@ include 'my.php';
 <a href="index.php">home </a>
 <table border="1px"cellpadding="10px" >
     <tr>
-        <th>Firstname</th>
-        <th>Lastname</th>
+        <th>name</th>
+        <th>surname</th>
         <th>Age</th>
         <th colspan="2">Action</th>
     </tr>
